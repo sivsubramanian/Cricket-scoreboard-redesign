@@ -19,8 +19,8 @@ To create a cleaner, more informative, and modern scorecard design inspired by v
 
 📸 Previews
 
-![T20 Scorecard](T20match.png)
-![Test Scorecard](Testmatch.png)
+![T20 Scorecard](T20_match.png)
+![Test Scorecard](Test_match.png)
 
 👋 Author
 **Sivasubramanian**  
